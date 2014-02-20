@@ -1,0 +1,6 @@
+*.bak
+*.dep
+*.uvgui.*
+*.uvopt
+output/
+source_insight/
